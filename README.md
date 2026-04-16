@@ -42,7 +42,11 @@ Uma colisão com um inimigo resulta em falha, exigindo que o jogador tente novam
 ## 🎨 Créditos
 
 - Assets visuais: ...
+
 - Áudio: 
-Coin sound - https://pixabay.com/sound-effects/film-special-effects-coin-257878/
-Game music - https://pixabay.com/sound-effects/musical-game-music-loop-7-145285/
-Player death - https://pixabay.com/sound-effects/film-special-effects-knife-demo-309903/
+
+  Coin sound - https://pixabay.com/sound-effects/film-special-effects-coin-257878/
+
+  Game music - https://pixabay.com/sound-effects/musical-game-music-loop-7-145285/
+
+  Player death - https://pixabay.com/sound-effects/film-special-effects-knife-demo-309903/
