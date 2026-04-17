@@ -41,8 +41,6 @@ Uma colisão com um inimigo resulta em falha, exigindo que o jogador tente novam
 
 ## 🎨 Créditos
 
-- Assets visuais: ...
-
 - Áudio: 
 
   Coin sound - https://pixabay.com/sound-effects/film-special-effects-coin-257878/
