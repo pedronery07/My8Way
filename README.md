@@ -35,9 +35,7 @@ Uma colisão com um inimigo resulta em falha, exigindo que o jogador tente novam
 
 ## 📌 Status do projeto
 
-🚧 Em desenvolvimento  
-
-<!-- / 🟢 Concluído -->
+🟢 Concluído
 
 ## 🎨 Créditos
 
